@@ -1,2 +1,2 @@
 # bounce
-An white HTML page with a button that bounces on your screen, similar to the bouncing DVD logo often found on screens.
+A Javascript button that bounces, similar to the bouncing DVD logo often found on screens.
